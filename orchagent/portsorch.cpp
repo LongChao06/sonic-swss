@@ -96,7 +96,7 @@ extern bool gMultiAsicVoq;
 #define QUEUE_WATERMARK_STAT_FLEX_COUNTER_POLLING_INTERVAL_MS   60000
 #define PG_WATERMARK_STAT_FLEX_COUNTER_POLLING_INTERVAL_MS   60000
 #define PG_DROP_STAT_FLEX_COUNTER_POLLING_INTERVAL_MS   10000
-
+#define xxx 1
 // types --------------------------------------------------------------------------------------------------------------
 
 struct PortAttrValue
